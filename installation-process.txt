@@ -1,0 +1,12 @@
+1- 01_database_creation.sql 
+2- 02_table_creation.sql
+3- 
+
+
+
+
+    // to add - open cmd [ setx Jwt__Key "6w4sX+M8Y+M/4xF6jKk5QxKQj5nR5gW8xv+6k5Y4mHc="  ]
+    // open - close VS -   echo $env:Jwt__Key
+    // to remove - open powershell [ [Environment]::SetEnvironmentVariable("Jwt__Key", $null, "User") ]
+
+

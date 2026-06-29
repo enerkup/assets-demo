@@ -1,0 +1,23 @@
+@loginAPI_HostAddress = http://localhost:5158
+
+### To Login
+
+POST {{loginAPI_HostAddress}}/login/
+Content-Type: application/json
+{
+    "email": "a@cma.com",
+    "password": "abc"
+}
+
+### To Register
+
+POST {{loginAPI_HostAddress}}/register/
+Content-Type: application/json
+{
+  "username": "agcm",
+  "email": "a@cma.com",
+  "firstName": "Ernesto",
+  "lastName": "Cardenas",
+  "password": "abc",
+  "UserTypeId": 1
+}

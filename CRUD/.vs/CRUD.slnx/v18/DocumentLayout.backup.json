@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\netapi\\vs2022\\crud\\assignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:assignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:51:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\AssignmentRequest.cs",
+              "RelativeDocumentMoniker": "AssignmentRequest.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\AssignmentRequest.cs",
+              "RelativeToolTip": "AssignmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:49:06.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "AssetRepository.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\AssetRepository.cs",
+              "RelativeToolTip": "AssetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:38:13.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUD.http",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.http",
+              "RelativeDocumentMoniker": "CRUD.http",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.http",
+              "RelativeToolTip": "CRUD.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-27T20:51:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\PagedResult.cs",
+              "RelativeDocumentMoniker": "PagedResult.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\PagedResult.cs",
+              "RelativeToolTip": "PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:37:34.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:43:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Asset.cs",
+              "RelativeDocumentMoniker": "Asset.cs",
+              "ToolTip": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\Asset.cs",
+              "RelativeToolTip": "Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:27:27.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
