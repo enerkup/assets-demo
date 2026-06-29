@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\loginAPI.csproj": {}
+    "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\loginAPI.csproj": {
+    "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\loginAPI.csproj",
+        "projectUniqueName": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.csproj",
         "projectName": "loginAPI",
-        "projectPath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\loginAPI.csproj",
+        "projectPath": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.csproj",
         "packagesPath": "C:\\Users\\distr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\obj\\",
+        "outputPath": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

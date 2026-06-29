@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.csproj": {}
+    "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.csproj": {
+    "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\CRUD.csproj",
+        "projectPath": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.csproj",
         "packagesPath": "C:\\Users\\distr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\CRUD\\obj\\",
+        "outputPath": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

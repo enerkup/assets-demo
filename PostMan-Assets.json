@@ -1,0 +1,231 @@
+{
+  "info": {
+    "_postman_id": "2df0f3e3-36a1-470d-a698-99a403a79faf",
+    "name": "Assets-Management",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "652570"
+  },
+  "item": [
+    {
+      "name": "Login-Generate-JWT-Admin",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"email\": \"admin@gmail.com\",\r\n    \"password\": \"sometimes\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5158/login/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5158",
+          "path": [
+            "login",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Login-Generate-JWT-Operator",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"email\": \"operator@gmail.com\",\r\n    \"password\": \"always\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5158/login/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5158",
+          "path": [
+            "login",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "01-Register-Admin",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"username\": \"admin\",\r\n  \"email\": \"admin@gmail.com\",\r\n  \"firstName\": \"Ernesto\",\r\n  \"lastName\": \"CM\",\r\n  \"password\": \"sometimes\",\r\n  \"UserTypeId\": 1\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5158/register/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5158",
+          "path": [
+            "register",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "02-Register-Operator",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"username\": \"operator\",\r\n  \"email\": \"operator@gmail.com\",\r\n  \"firstName\": \"Arturo\",\r\n  \"lastName\": \"CM\",\r\n  \"password\": \"always\",\r\n  \"UserTypeId\": 2\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5158/register/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5158",
+          "path": [
+            "register",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "03-Invalid-Register",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"username\": \"coach\",\r\n  \"email\": \"coach@gmail.com\",\r\n  \"firstName\": \"Javier\",\r\n  \"lastName\": \"CM\",\r\n  \"password\": \"never\",\r\n  \"UserTypeId\": 3\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5158/register/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5158",
+          "path": [
+            "register",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GetAssets",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5130/assets?search=DELL&status=Assigned&category=Monitors&pageNumber=1&pageSize=1",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5130",
+          "path": [
+            "assets"
+          ],
+          "query": [
+            {
+              "key": "search",
+              "value": "DELL"
+            },
+            {
+              "key": "status",
+              "value": "Assigned"
+            },
+            {
+              "key": "category",
+              "value": "Monitors"
+            },
+            {
+              "key": "pageNumber",
+              "value": "1"
+            },
+            {
+              "key": "pageSize",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Assign Asset to Employee",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"assetId\": 1,\r\n  \"employeeId\": 2\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:5130/assets/assignment",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5130",
+          "path": [
+            "assets",
+            "assignment"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

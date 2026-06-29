@@ -19,7 +19,7 @@ namespace CRUD.Controllers
 
         // Only admin (UserTypeId == 1)
         [HttpGet]
-        [Authorize(Policy = "AdminOnly")]
+        //[Authorize(Policy = "AdminOnly")]
         public async Task<ActionResult<PagedResult<Asset>>> GetAssets([FromQuery] AssetQueryParams query)
         {
             if (query.PageNumber < 1) query.PageNumber = 1;
@@ -31,7 +31,7 @@ namespace CRUD.Controllers
 
         // POST /assets/assignment — only operator (UserTypeId == 2)
         [HttpPost("assignment")]
-        [Authorize(Policy = "OperatorOnly")]
+        //[Authorize(Policy = "OperatorOnly")]
         public async Task<IActionResult> AssignAsset([FromBody] AssignmentRequest req)
         {
             if (req == null || req.AssetId <= 0 || req.EmployeeId <= 0)

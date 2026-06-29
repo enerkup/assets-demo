@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Jc+zmil0Ys=",
+  "dgSpecHash": "4rI35aSHOSA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\distr\\Downloads\\netapi\\vs2022\\loginAPI\\loginAPI.csproj",
+  "projectFilePath": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\distr\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\distr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
