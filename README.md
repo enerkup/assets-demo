@@ -137,19 +137,19 @@ The `TR_Assets_History` trigger fills it automatically on every `INSERT`/`UPDATE
 
 
 Deberás compartir un repositorio que incluya:
-• Código fuente. OK
-• Scripts de base de datos. OK
-• Stored Procedures. OK
-• README con pasos de instalación. HALF
-• Variables de entorno requeridas. Not required to simplify the setup
-• Usuarios de prueba. - NO
-• Colección de Postman o archivo equivalente, opcional pero recomendado. OK
-• Pruebas automatizadas. NO
-• Explicación de decisiones técnicas. NO
-• Tiempo aproximado invertido. 2 Days
-• Funcionalidades pendientes, en caso de existir. - Issue with permissions in the API Roles - Error management in API when a Asset is added to User
-El uso de herramientas de inteligencia artificial está permitido, sin embargo deberás indicar:
-• Qué herramienta se utilizó. Copilot
-• En qué parte del desarrollo se utilizó. SP, Some error solutions
-• Qué validaciones realizaste sobre el código generado o sugerido. Small changes in DI
-• Qué decisiones técnicas tomaste personalmente. Donde las validaciones necesitaban ser ejecutadas, estructura de la BD, Estructura API
+- Código fuente. OK
+- Scripts de base de datos. OK
+- Stored Procedures. OK
+- README con pasos de instalación. HALF
+- Variables de entorno requeridas. Not required to simplify the setup
+- Usuarios de prueba. - NO
+- Colección de Postman o archivo equivalente, opcional pero recomendado. OK
+- Pruebas automatizadas. NO
+- Explicación de decisiones técnicas. NO
+- Tiempo aproximado invertido. 2 Days
+- Funcionalidades pendientes, en caso de existir. - Issue with permissions in the API Roles - Error management in API when a Asset is added to User
+- El uso de herramientas de inteligencia artificial está permitido, sin embargo deberás indicar:
+- Qué herramienta se utilizó. Copilot
+- En qué parte del desarrollo se utilizó. SP, Some error solutions
+- Qué validaciones realizaste sobre el código generado o sugerido. Small changes in DI
+- Qué decisiones técnicas tomaste personalmente. Donde las validaciones necesitaban ser ejecutadas, estructura de la BD, Estructura API
