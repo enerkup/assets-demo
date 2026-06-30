@@ -60,9 +60,9 @@ Stored procedures that back the API operations.
 
 ## PostMan-Assets.json
 
--To list Assets 
-- 1 - Generate a JWT token using Postman [Login-Generate-JWT-Admin]
-- 2 - In Postman [GetAssets] Authorization -> Bearer Token 
+- 1 - Create Users [01-Register-Admin] and [02-Register-Operator]
+- 2 - Generate a JWT token using Postman [Login-Generate-JWT-Admin]
+- 3 - In Postman [GetAssets] Authorization -> Bearer Token 
 
 
 ## Checks:
