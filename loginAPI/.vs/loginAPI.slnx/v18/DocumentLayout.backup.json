@@ -15,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:loginapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0EB3804-F8ED-A0F5-9FAE-5D7AF4D077A6}|loginAPI.csproj|c:\\users\\distr\\downloads\\quom\\loginapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,25 +68,27 @@
               "RelativeDocumentMoniker": "loginAPI.http",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\loginAPI.http",
               "RelativeToolTip": "loginAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-06-29T07:26:33.177Z"
+              "WhenOpened": "2026-06-29T07:26:33.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T03:46:07.744Z"
+              "WhenOpened": "2026-06-28T03:46:07.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\UserRepository.cs",
               "RelativeDocumentMoniker": "UserRepository.cs",
@@ -98,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -110,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -118,7 +120,8 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T01:06:21.321Z"
+              "WhenOpened": "2026-06-27T01:06:21.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +131,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-27T00:18:44.664Z",
               "EditorCaption": ""
@@ -141,14 +144,14 @@
               "RelativeDocumentMoniker": "GenerateJWT.cs",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\GenerateJWT.cs",
               "RelativeToolTip": "GenerateJWT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T23:40:18.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\loginAPI\\LoginRequest.cs",
               "RelativeDocumentMoniker": "LoginRequest.cs",
