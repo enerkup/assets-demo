@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\assignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:assignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07ABB0EB-814B-3D6F-88EC-06C8F9B10172}|CRUD.csproj|c:\\users\\distr\\downloads\\quom\\crud\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,50 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-30T00:33:38.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-29T17:40:26.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AssetsController.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Controllers\\AssetsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Controllers\\AssetsController.cs",
               "RelativeToolTip": "Controllers\\AssetsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T15:51:34.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AssignmentRequest.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\AssignmentRequest.cs",
               "RelativeDocumentMoniker": "AssignmentRequest.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AssetRepository.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\AssetRepository.cs",
               "RelativeDocumentMoniker": "AssetRepository.cs",
@@ -115,20 +115,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CRUD.http",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.http",
               "RelativeDocumentMoniker": "CRUD.http",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\CRUD.http",
               "RelativeToolTip": "CRUD.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-06-27T20:51:54.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\PagedResult.cs",
               "RelativeDocumentMoniker": "PagedResult.cs",
@@ -141,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\distr\\Downloads\\QUOM\\CRUD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAgwGIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T20:43:35.295Z",
               "EditorCaption": ""
