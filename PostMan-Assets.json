@@ -155,17 +155,30 @@
       "name": "GetAssets",
       "request": {
         "auth": {
-          "type": "noauth"
+          "type": "bearer",
+          "bearer": [
+            {
+              "key": "token",
+              "value": "",
+              "type": "string"
+            }
+          ]
         },
         "method": "GET",
-        "header": [],
+        "header": [
+          {
+            "key": "",
+            "value": "",
+            "type": "text"
+          }
+        ],
         "url": {
-          "raw": "http://localhost:5130/assets?search=DELL&status=Assigned&category=Monitors&pageNumber=1&pageSize=1",
-          "protocol": "http",
+          "raw": "https://localhost:7117/assets?search=DELL&status=Assigned&category=Monitors&pageNumber=1&pageSize=1",
+          "protocol": "https",
           "host": [
             "localhost"
           ],
-          "port": "5130",
+          "port": "7117",
           "path": [
             "assets"
           ],
