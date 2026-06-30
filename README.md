@@ -47,6 +47,13 @@ Stored procedures that back the API operations.
 
 - **`query_verification.sql`** — Checks row counts per table and validates the basic business rules above, reporting each one as `OK` or `FAIL` (a healthy database shows zero violations).
 
+
+---
+
+## Security JWT
+
+- for [loginAPI] and [CRUD] solutions "appsettings.json" contains the JWT key to simplify initial setup.
+
 ---
 
 ## Requirements
